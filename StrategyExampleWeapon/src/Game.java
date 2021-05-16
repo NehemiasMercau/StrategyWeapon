@@ -11,7 +11,7 @@ public class Game {
 		
 		kingCharacter.setWeapon(new Knife());
 		kingCharacter.fight();
-		kingCharacter.setWeapon(new BowAndArrow());
+		kingCharacter.setWeapon(new Axe());
 		kingCharacter.fight();
 		
 		queenCharacter.setWeapon(new Axe());
