@@ -6,8 +6,7 @@ public class Game {
 		
 		King kingCharacter = new King();
 		Queen queenCharacter = new Queen();
-		//Knight knightCharacter = new Knight();
-		//Troll trollCharacter = new Troll();
+	
 		
 		kingCharacter.setWeapon(new Knife());
 		kingCharacter.fight();
